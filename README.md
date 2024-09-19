@@ -6,11 +6,16 @@
 - % (percentage symbol)
 - ^ (caret symbol)
 - & (and symbol/ ampersand)
-- * (asterisk symbol)
+- \* (asterisk symbol)
 - ( (opening bracket)
 - ) (closing bracket)
 # Links
--
--
--
+- [Youtube] (https://www.youtube.com/)
+- [Netflix] (https://www.netflix.com/browse)
+- [Instagram] (https://www.instagram.com/)
 # Experiment
+- 😄
+- 😠
+- 😂
+- 💋
+- 👼
